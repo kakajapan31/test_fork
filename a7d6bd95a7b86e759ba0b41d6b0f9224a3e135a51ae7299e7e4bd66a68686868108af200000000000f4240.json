@@ -1,0 +1,63 @@
+{
+ "subject": "a7d6bd95a7b86e759ba0b41d6b0f9224a3e135a51ae7299e7e4bd66a68686868108af200000000000f4240",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://danogo.io",
+  "signatures": [
+   {
+    "signature": "Z\u0000\t\ufffd7\ufffd\ufffdKt9\ufffdБ\u0005W\ufffd\u000f(\ufffd\ufffd]ꐹ\ufffd\u0018\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd`m\ufffd\ufffd\ufffd\ufffd\ufffd`\ufffd\u000eM\ufffd\ufffd4\u001fhy\ufffd\ufffd*Tل\u0006\ufffd\ufffd@0\ufffd\u003c\u0026\u000c",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Operator Deposit",
+  "signatures": [
+   {
+    "signature": "!\ufffd\ufffd\r:2z^I\ufffd\ufffd]S'D\ufffds\u003es\ufffd(-\ufffdp\ufffdr\ufffd\ufffd\ufffd\u001c\ufffdnh\ufffd\u001c\ufffd\ufffd[JҖ\ufffd\ufffd\ufffd\u0010\ufffdٔ]\ufffd%\ufffd~\ufffdk\ufffd\ufffd3\ufffd\ufffd\u001az\ufffd\u0001",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DCOD",
+  "signatures": [
+   {
+    "signature": "\ufffd\ufffd\ufffd@\ufffd\u0004\ufffd\ufffd\ufffdq\ufffd\t\ufffd?]G?5\ufffdY*\ufffd\ufffd\tNC\ufffd\u001d\ufffd\ufffd#4-\ufffd\ufffd\ufffd\ufffd(\ufffd\ufffd\ufffdiN\ufffd\ufffd2\ufffd\u0026Q \ufffdL\ufffd\u001f\u001c\u000c\ufffdڋP\ufffd\ufffd\u001c\u000e",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "\ufffd\ufffdp\ufffd*\ufffd\ufffd\ufffd)\ufffde\u0018\n\u0004w\ufffd\ufffdVPJ]\ufffdq\ufffdt\ufffd\ufffd\ufffd캡W8\ufffd\ufffd\ufffd!\ufffd}\ufffd\ufffdb\ufffd:\u0001m\ufffd\u001a.\ufffd\u00150a\ufffd\ufffd\ufffd?\u0005\ufffd*mh\ufffd\u000f",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "ipfs://bafkreicwrhgioydzi7wilv5dzzxhdiauytz4uznp37537ptq3sa7dto6cu",
+  "signatures": [
+   {
+    "signature": "\ufffd8\ufffd\ufffd\ufffd\ufffd+ʫ_Um\u0001ܡ\u000b\u000e\ufffd\ufffd\ufffdhb\ufffd\r\ufffd\u0000\ufffd\ufffd,\u0015\ufffd\u0002-y\ufffdL\ufffd]c\ufffde\ufffd\ufffd\ufffd\u0007\ufffd\n(\ufffd\ufffd)뵑\ufffdU\ufffdڪ\ufffd\ufffd\u003e\\\u0005",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Operator Deposit token represents the right to convert into Danogo Club Operator tokens when a deposit request into the Club is approved",
+  "signatures": [
+   {
+    "signature": "@\u0001'S\u001dP\ufffd̠\t\ufffd\ufffd\ufffdT\ufffde\ufffds\ufffd1\u0005\ufffd\ufffd,̭2\ufffd\ufffd5\ufffdZ\ufffd\ufffd\ufffd\u0015y\u001c\ufffd\ufffd=\ufffd\ufffd`\ufffd\ufffd\u0011Pٝ\u001dm\ufffd\ufffdb\u0003\ufffd\ufffdV\ufffd6\ufffd\ufffd\t",
+    "publicKey": "aa3e9abb86576ed7ac6439d4bff199dc38c182e3a99f04fdebc7bf6214a75e5a"
+   }
+  ]
+ }
+}
