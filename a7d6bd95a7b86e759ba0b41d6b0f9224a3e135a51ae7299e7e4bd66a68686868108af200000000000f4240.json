@@ -1,0 +1,63 @@
+{
+ "subject": "a7d6bd95a7b86e759ba0b41d6b0f9224a3e135a51ae7299e7e4bd66a68686868108af200000000000f4240",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://danogo.io",
+  "signatures": [
+   {
+    "signature": "689bab3d2877b8896ba865dbd02880c0e3b8e8c92723ffa33ba898348df7e941ed887c1b2d0c5a7b5082dbab38c0f4c7d618d23b6b00a3dd28de2a87edada003",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Operator Deposit",
+  "signatures": [
+   {
+    "signature": "24910b7c966ff18cd07c013c759e403e5403ec760e616c9d2e2fe47e872240b6042ea39dbcc953ef83bde48fe916740fd5de670fe319737e9849680fd97bdc06",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DCOD",
+  "signatures": [
+   {
+    "signature": "4c3bab08d408e05013c3e2aefe7afe36eba9b1a3f1b95103e4cfaf480ae974c33e17a6520f7176760d2242b95592b4c1d4b1051c49b985d2f511fcfb77cf6e07",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "763de2d520839a2b251543b0ff92b20ca80ccb505d44c6a710ecca7721aad58fa0addadd6ca112e00706655deec02cce4d8c24b0163503e5586e75e15a850104",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "ipfs://bafkreicwrhgioydzi7wilv5dzzxhdiauytz4uznp37537ptq3sa7dto6cu",
+  "signatures": [
+   {
+    "signature": "e9658fd0c933846d7d4e8d327e37854fb51fee2444a7a88467c0b91181493c3cc57cc8fc23d1dc94287459ccb3a25499615e3dc24806d42a944315e605905405",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Operator Deposit token represents the right to convert into Danogo Club Operator tokens when a deposit request into the Club is approved",
+  "signatures": [
+   {
+    "signature": "4a1addfe7c0fd6ede08ff8c9e8c331dd328b1cbadb78227848dcbee4946448a456fd9c23eb021461296337e3a4e2ffecab6b1c65c560aaad8a364c60f5eac30b",
+    "publicKey": "c9b9f15164e91b92ebeb8a0020720427ec010ab13db26b896e8705b20f8469f3"
+   }
+  ]
+ }
+}
