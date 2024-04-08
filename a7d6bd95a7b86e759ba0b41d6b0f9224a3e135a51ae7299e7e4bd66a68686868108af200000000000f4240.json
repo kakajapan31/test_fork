@@ -1,0 +1,63 @@
+{
+ "subject": "a7d6bd95a7b86e759ba0b41d6b0f9224a3e135a51ae7299e7e4bd66a68686868108af200000000000f4240",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://app.danogo.io/club",
+  "signatures": [
+   {
+    "signature": "37150d4d8c7d5087b7caba9664d979ab9ea9a56949e7aca8512571b72b954033c6e9db58d4d6d0b7b4c0f786efdeb40c44cf2e9d99f1922a3000c612f99fe609",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Operator Deposit",
+  "signatures": [
+   {
+    "signature": "e8df49a7aea1216d83cbf4a8d0bc54d6fccb5b377c378e08ad9c1aba6c46cf3c8f4dedfac79470edc65d0843b3c85bb097284aac5ae7409c2bd2f51609346605",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DANOGO",
+  "signatures": [
+   {
+    "signature": "2dc4ab3666c1e5916558f24465b25c743b80c8445410bf44cd81ca3c2e6ed2b3f28cdf267427359e1551a392d347fc8ffb20e6b47d9a700cffc50ebd1c975703",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "124af46940d49f5c9ecbc9b171c9695f7db6772f27ac86ba052ebc38f67a08f1e725623ac4216803c963b8c8b4c214c583a3cce54bb2e232f2a1514f95df8005",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "",
+  "signatures": [
+   {
+    "signature": "4bbfc6af403cfc68fab0bc74432e7ae1920f3e1222e52a030a9aba90a43c6ac85e4a859c236c52cd9eb20e887d5187cb20cea1b7f9631474d0b81319d9ba6607",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Operator Deposit token represents the right to convert into Danogo Club Operator tokens when a deposit request into the Club is approved",
+  "signatures": [
+   {
+    "signature": "1c5735d79d40faf205e45cbd4d81fe55f841686424f9cdf48ea3329c9aea899811039445d8f2e30c51fd431c22852e080ac1b937a177bca002615d49427f0205",
+    "publicKey": "68ba15028d089b520e7165f81d8cdfdbf24fa9eb67ee8cf0c8d2f8ce46adce77"
+   }
+  ]
+ }
+}
