@@ -1,0 +1,63 @@
+{
+ "subject": "7dae4d409c625b3b78cb175b19aaea5acfd5c356943b53b9dafbf38c68686868200001018f3c926c20",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://app.danogo.io/club",
+  "signatures": [
+   {
+    "signature": "151c9c2689e583ca490930219314180935915e540e7db2b624b85c1897a9deb867344dc5aa4812534b482cc4189cfda440026db4beb34a57628e02eb47f80b0d",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Operator Deposit",
+  "signatures": [
+   {
+    "signature": "30227bf102a3df7bb779452c2bde829729d318a8c9e60433ba163da878b6f1e450f2d0af32ad8ea350b6ce1aea7e60ae951cec7f82371ad0bcbb290f6e81400b",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DANOGO",
+  "signatures": [
+   {
+    "signature": "eee3d7d58829245c20fb9ed712f89a674706914cc277e5bd0599038158629101ff2a3cf5cf2af458eceb65f1ab87599a3ae0a9e225004d3d605f153ad824c800",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "b60df3f95b3d01dd71afcc5405b9fc65078cde4f73b4ce7b55a379107d4a91cbc5befff5bfb747b26cfd41c899045a814f4fc915b100afc589644a6ea039c10b",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "",
+  "signatures": [
+   {
+    "signature": "af9c9f549e903820a3649f3b52c5121a7c4d23b6a7077ae5413275f58f365348928fd71a3a1c7cdfa025df4ec8445c061b3d5d7f9234e43695e00cfc6b57110c",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Operator Deposit token represents the right to convert into Danogo Club Operator tokens when a deposit request into the Club is approved",
+  "signatures": [
+   {
+    "signature": "bb20dc9c63a3213f5642d56968ee9677dc803913576d9b6b279445caa473b01372123d2c7f6d1fdf2bf863bb2fbbf3e2897b8e74a398d5b33c318e2b04b1c90f",
+    "publicKey": "e5313902cc1d9d4bf6f234db5efd33cf34de98111ae4ebc6f2b5d169a9fcfa4e"
+   }
+  ]
+ }
+}
