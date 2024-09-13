@@ -1,0 +1,63 @@
+{
+ "subject": "35d826edb533722917947da80723dd75f5dc13b7f579c302aa59085468686868200003018f607e8358",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://app.danogo.io/club",
+  "signatures": [
+   {
+    "signature": "4f4b7d6e62ea576ba3c9d6ac9a23d556a10b8e6107ef58d4e227e9806a3006fdc7df7fd8938c3bcd746349406b0e44d3ddcaa83c21e56b2d267a7b4bad18630b",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Member Deposit",
+  "signatures": [
+   {
+    "signature": "54ea9fca55c24ed1bf9a0a95caad2b7c6d1ebe5aab750e015adf25269de608f35bba159cefd9a2d4a10bc1e240d4754f38b24a85961dbb880f2cd1d51e4f3c07",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DANOGO",
+  "signatures": [
+   {
+    "signature": "98513357dbf1a9b3ea0b5ec1947928a2887a8393d696b5e95f0b63fd76e90f74dcdd298c97d254000988da865093944e399c7ebb3400a2594614e3571f8ebb0a",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "67fc92fdda838aa10890293dc11aa270d7540d2ddd72159bd7886f4625df22837f6dac85f5a8c360cde5e8244e2b4113ea120f6055d6f5108598505a3a6bc00e",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "",
+  "signatures": [
+   {
+    "signature": "04f9de6e4adb0b17abfdfeac1cccf80b8dbc49638b0b21d30eb13addb6f4dd31c15f92f6acb37978c87f0d62663e2c32627b592bfb3bc9f40ce542f0a6d0ba03",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Member Deposit token represents the right to convert into Member tokens when a deposit request into the Club is approved",
+  "signatures": [
+   {
+    "signature": "b9235ff4f781cf824bbd7cb6d06c33b47b46dafb39e3221f1ecf12fb14bbe561e00e41a060a91b9b9f51bfaba0e6f49a76256a9b7662e0d588d9fa27d2a04a09",
+    "publicKey": "69fb7051ac186842f148bc5edd2252ad9f633d576b9132b9683635e0c53a577d"
+   }
+  ]
+ }
+}
