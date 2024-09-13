@@ -1,0 +1,63 @@
+{
+ "subject": "35d826edb533722917947da80723dd75f5dc13b7f579c302aa5908546868686810939300000000000f0a72",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://app.danogo.io/club",
+  "signatures": [
+   {
+    "signature": "de44cad21e1d1df7b1bdc8edf9806740d0e25ea40642381c70b47121f3ad6e64f18b8dff153a65fbbdba625fb599fa39375d24147bbdbe9e53717e016540be01",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Operator",
+  "signatures": [
+   {
+    "signature": "ceeb6651ab4ff7fd4191a325075d2f6e139e80cc646c5eb23e688fc032f18e030f6997adec6b6c6b31e9bf4033bbdb728ecd674f7caf14fa6c4fc08d8955330f",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DANOGO",
+  "signatures": [
+   {
+    "signature": "bf4eddc7bc5fcbe6082fea035bbb3dd605d7e9611bced4d23eb2c6bfd5098438f7ebbb5df7ebb542facc904c3c9f465081bbb21bf19085fdbe4d03e8c8b66909",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "ab4c46642ae9ff7ba9c2ec6f93330cc3301d83a157791eee278e44ce0795131bc2bf2edd1a013dd93152ba90e9e0da6884777d2facf452a0959bde6695152608",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "",
+  "signatures": [
+   {
+    "signature": "ad3ed1b8d5953910bd7b3d98f6cbe5b66df17f6d7131ceb4aff8ce37cb6be6bdeebe2484aaaf8cf114714d99b2aedb1bdd3dd1c6981ba11bf27daa0d066f320a",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Operator token represents the right to withdraw capital and profits from $1 when the Club is closed",
+  "signatures": [
+   {
+    "signature": "78365fdf2a7f1bd5536ce2330eb3df9025dec84d77da7a8c83b379eb4e6d4533bbcf13004b62ab2b9feba4dc9f7402e3087bd8411617d0840a770ffa7bada80f",
+    "publicKey": "92541d584e6053adbe96d8dbf293a61814686e4d18e29f518f6d5b0ce22e751c"
+   }
+  ]
+ }
+}
