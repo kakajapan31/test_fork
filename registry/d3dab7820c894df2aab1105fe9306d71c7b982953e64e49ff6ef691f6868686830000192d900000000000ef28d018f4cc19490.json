@@ -1,0 +1,63 @@
+{
+ "subject": "d3dab7820c894df2aab1105fe9306d71c7b982953e64e49ff6ef691f6868686830000192d900000000000ef28d018f4cc19490",
+ "url": {
+  "sequenceNumber": 0,
+  "value": "https://app.danogo.io/club",
+  "signatures": [
+   {
+    "signature": "0284893269789dd201be28863e78335a9a2b5b396f4cd1e35b1b04ee333d4d55dad9cb7f6f010dac6dac9d56ceca39ddd63717936aedece877d1ceb952405e09",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ },
+ "name": {
+  "sequenceNumber": 0,
+  "value": "Danogo Club Withdraw",
+  "signatures": [
+   {
+    "signature": "d52e3ce8b9bc7223ff89c34cc0ed7906de5dd2c06521219a28b58e00b30ce4ea24beb034e71e6d47b968aa7a21084235198d581ebca3bfbeaf914bf02797630a",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ },
+ "ticker": {
+  "sequenceNumber": 0,
+  "value": "DANOGO",
+  "signatures": [
+   {
+    "signature": "1b9ba1d95b1842a7252e6f18a6430607f101e8a5dd9f681a1e085e5c074d304494361e53f2c588dc738c9620fe06c4a58786f8a5a7956803122ef58ae46d2506",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ },
+ "decimals": {
+  "sequenceNumber": 0,
+  "value": 6,
+  "signatures": [
+   {
+    "signature": "458a2b9ea0a771ca692d9be6e969a8f5baaf443e03d6367e245f7b9fcc5f818c2e76e48ee105387870cb9654c14c2555a4146e40c00f803af554d7be97250d09",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ },
+ "logo": {
+  "sequenceNumber": 0,
+  "value": "",
+  "signatures": [
+   {
+    "signature": "bae211bd73c85d6fa0b63dc83244758c85a24b0f59cc5df37537fabbc1b7e54c28b3858bbc78edbd733fa4a9596d14416edae374bfb611245bcab796ba466003",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ },
+ "description": {
+  "sequenceNumber": 0,
+  "value": "The Danogo Club Withdraw token represents the right to convert into ADA when a withdrawal request from a Member is approved",
+  "signatures": [
+   {
+    "signature": "3d9bdf33e494e43e6b92aea9f834b69ef3bd712bf3f093455b8f4a463d3105d23cdb20290910a0084cbf15ef11719023a73cfdd857f9486f6e724c6ea45a7603",
+    "publicKey": "07e100da9dc5afe9c27a6a2a284cb56adf4bef06ac5473043926e5714016cafd"
+   }
+  ]
+ }
+}
